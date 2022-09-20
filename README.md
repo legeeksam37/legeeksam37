@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @legeeksam37
 - 👀 I’m interested in Game and web server development
 - 🌱 I’m currently learning OpenGl, DirectX, Java, Spring...
-- 💞️ I’m looking to collaborate on Java Backend solutions
+- 💞️ I’m looking to collaborate on video games developpement, wich is also my profesionnal goal !
 - 📫 How to reach me sami.yayb@gmail.com
 
 <!---
